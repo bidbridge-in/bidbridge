@@ -1,0 +1,16 @@
+{
+  "name": "bidbridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint"
+  },
+  "packageManager": "pnpm@12.21.0",
+  "devDependencies": {
+    "turbo": "^2.11.11",
+    "typescript": "^7.0.2"
+  }
+}
